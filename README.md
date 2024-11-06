@@ -3,7 +3,7 @@
 ## Description
 This is a repository for playing around with git.
 
-This repository contains 2 branches:
+This repository contains following branches:
 - `main`
 - `ugly-conflict`
 - `feature-script`
